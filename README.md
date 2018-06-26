@@ -1,2 +1,2 @@
 # RED21
-This is a fame which counts a number starts from 1 and game over while counting is 20.
+This is a game which counts a number start from 1 and game over while counting become 20.
